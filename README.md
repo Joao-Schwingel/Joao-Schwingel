@@ -3,8 +3,6 @@
 - 🔭 Atualmente não estou trabalhando na area de tecnologia da informação
 - 🌱 Estou fazendo faculdade de engenharia de software
 - 📫 Contate-me no e-mail : jv.schwingel@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/Joao-Schwingel">
