@@ -1,7 +1,7 @@
 ### Ola!!👋
 
-- 🔭 Atualmente não estou trabalhando na area de tecnologia da informação
-- 🌱 Estou fazendo faculdade de engenharia de software
+- 🔭 Atualmente trabalho na dell no projeto do IT-Academy
+- 🌱 Estou fazendo faculdade de engenharia de software, me encontro no 5º semestre
 - 📫 Contate-me no e-mail : jv.schwingel@gmail.com
 
 <div align="center">
