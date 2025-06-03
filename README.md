@@ -1,6 +1,6 @@
 ### Ola!!👋
 
-- 🔭 Atualmente trabalho na dell no projeto do IT-Academy
+- 🔭 Atualmente trabalho na dell commo software engineer 11
 - 🌱 Estou fazendo faculdade de engenharia de software, me encontro no 5º semestre
 - 📫 Contate-me no e-mail : jv.schwingel@gmail.com
 
