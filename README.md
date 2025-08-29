@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o João Vitor Schwingel  
+# 👋 Hi, I'm João Vitor Schwingel  
 
-🚀 **Software Engineer** com experiência em desenvolvimento **full-stack, SaaS, microservices** e **cloud computing**.  
-Atualmente trabalho na **Dell Technologies** como *Software Engineer II*, atuando em projetos internacionais com **Java, TypeScript, Angular, React, .NET** e **cloud (AWS, Oracle OCI, PCF, Kubernetes, Docker)**.  
+🚀 **Software Engineer** with experience in **full-stack development, SaaS, microservices**, and **cloud computing**.  
+Currently working at **Dell Technologies** as a *Software Engineer I*, contributing to international projects with **Java, TypeScript, Angular, React, .NET**, and **cloud (AWS, Oracle OCI, PCF, Kubernetes, Docker)**.  
 
-🎓 Estudante de **Engenharia de Software (PUCRS, 5º semestre)**.  
-💡 Apaixonado por **arquitetura limpa, automação, DevOps, TDD e IA generativa/LLMs**.  
+🎓 Software Engineering student (**PUCRS, 8th semester**).  
+💡 Passionate about **clean architecture, full-stack development, automation, DevOps, TDD, generative AI/LLMs**, and **improving website performance**.  
 
 ---
 
@@ -13,10 +13,10 @@ Atualmente trabalho na **Dell Technologies** como *Software Engineer II*, atuand
 **Languages & Frameworks**  
 - TypeScript | Java | C#  
 - Angular | React | Next.js | NestJS | Spring Boot | Entity Framework  
-- Python (Flask) | Go | Delphi (legado)  
+- Python (Flask) | Go | Delphi (legacy)  
 
 **Databases & Infra**  
-- PostgreSQL | MySQL | MongoDB | DynamoDB | Oracle OCI | HANA (aprendizado rápido)  
+- PostgreSQL | MySQL | MongoDB | DynamoDB | Oracle OCI | HANA (fast learner)  
 - AWS | Kubernetes | Docker | PCF | Terraform | Nginx  
 
 **DevOps & Tools**  
@@ -26,12 +26,12 @@ Atualmente trabalho na **Dell Technologies** como *Software Engineer II*, atuand
 
 ---
 
-## 📌 Projetos em Destaque  
+## 📌 Featured Projects  
 
-- **LeadLink** – Catálogo de imóveis em **Next.js**, otimizado para **SEO e performance**, integrado à **API do Vista** e com painel administrativo dinâmico.  
-- **SafeMedicine (Hackathon)** – Solução em **Python + OpenAI API** para apoiar médicos em plantões longos, com **IA generativa**.  
-- **QuadTree Compression** – Algoritmo em **C** para compressão de imagens via quadtree, otimizando espaço e processamento.  
-- **Globo Aplausos (Dell/AGES)** – Plataforma interna gamificada para engajamento entre colaboradores.  
+- **LeadLink** – Real estate catalog in **Next.js**, optimized for **SEO and performance**, integrated with the **Vista API**, and featuring a dynamic admin panel.  
+- **SafeMedicine (Hackathon)** – Solution in **Python + OpenAI API** to support doctors during long shifts using **generative AI**.  
+- **QuadTree Compression** – Algorithm in **C** for image compression via quadtree, optimizing space and processing.  
+- **Globo Aplausos (Dell/AGES)** – Internal gamified platform for employee engagement.  
 
 ---
 
