@@ -3,7 +3,7 @@
 🚀 **Software Engineer** with experience in **full-stack development, SaaS, microservices**, and **cloud computing**.  
 Currently working at **Dell Technologies** as a *Software Engineer I*, contributing to international projects with **Java, TypeScript, Angular, React, .NET**, and **cloud (AWS, Oracle OCI, PCF, Kubernetes, Docker)**.  
 
-🎓 Software Engineering student (**PUCRS, 8th semester**).  
+🎓 Software Engineering.  
 💡 Passionate about **clean architecture, full-stack development, automation, DevOps, TDD, generative AI/LLMs**, and **improving website performance**.  
 
 ---
