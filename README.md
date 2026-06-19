@@ -1,7 +1,7 @@
 # 👋 Hi, I'm João Vitor Schwingel  
 
 🚀 **Software Engineer** with experience in **full-stack development, SaaS, microservices**, and **cloud computing**.  
-Currently working at **Dell Technologies** as a *Software Engineer I*, contributing to international projects with **Java, TypeScript, Angular, React, .NET**, and **cloud (AWS, Oracle OCI, PCF, Kubernetes, Docker)**.  
+Currently working at **Instituto de pesquisas Eldorado** as a *Mid level Software engineering*, contributing to international projects with **Java, TypeScript, Angular, React, .NET**, and **cloud (AWS, Oracle OCI, PCF, Kubernetes, Docker)**.  
 
 🎓 Software Engineering.  
 💡 Passionate about **clean architecture, full-stack development, automation, DevOps, TDD, generative AI/LLMs**, and **improving website performance**.  
